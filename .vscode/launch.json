@@ -38,7 +38,7 @@
             "name": "Python: Terminal (integrated)",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/Atividade 2/Problema 1/source/Main.py",
+            "program": "${workspaceFolder}/Atividade 3/Problema 1/source/Main.py",
             "console": "integratedTerminal"
         },
         {
